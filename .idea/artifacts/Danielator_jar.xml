@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Danielator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Danielator_jar</output-path>
+    <root id="archive" name="Danielator.jar">
+      <element id="module-output" name="Danielator" />
+    </root>
+  </artifact>
+</component>
